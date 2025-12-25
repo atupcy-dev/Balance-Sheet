@@ -1,0 +1,2 @@
+# Balance Sheet
+This project displays a structured balance sheet for a fictional company, AcmeWidgetCorp, showing its financial position over multiple years. It organizes assets, liabilities, and net worth into clearly labeled sections, with year-by-year comparisons presented in a table format. The layout improves readability and demonstrates how financial data can be displayed using semantic HTML and basic CSS styling.
